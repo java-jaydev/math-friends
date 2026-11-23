@@ -1,0 +1,12 @@
+# 개인 학습 기록 - 절대 올리지 않음
+private/
+
+# 시안 초안, 생성 결과물
+sian/
+worksheets/out/
+
+# Codex 원본 이미지(가공 전)
+assets/chars/*_raw.png
+
+.DS_Store
+__pycache__/
